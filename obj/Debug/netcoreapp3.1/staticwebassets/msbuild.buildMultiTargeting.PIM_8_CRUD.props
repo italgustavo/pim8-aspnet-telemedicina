@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PIM_8_CRUD.props" />
+</Project>

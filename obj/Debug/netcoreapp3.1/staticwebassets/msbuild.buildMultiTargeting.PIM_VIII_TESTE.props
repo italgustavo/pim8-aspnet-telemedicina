@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\PIM_VIII_TESTE.props" />
+</Project>
